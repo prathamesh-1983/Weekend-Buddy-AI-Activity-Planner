@@ -1,0 +1,211 @@
+[
+  {
+    "id": "walk",
+    "name": "Nature walk",
+    "category": "outdoor",
+    "duration_minutes": 45,
+    "estimated_cost": 0,
+    "energy": "moderate",
+    "social": "either",
+    "description": "Get fresh air in a nearby park or safe walking route.",
+    "icon": "🌿"
+  },
+  {
+    "id": "photo",
+    "name": "Photo walk",
+    "category": "outdoor",
+    "duration_minutes": 45,
+    "estimated_cost": 0,
+    "energy": "moderate",
+    "social": "either",
+    "description": "Take photos of interesting colors, plants, buildings, or street scenes.",
+    "icon": "📸"
+  },
+  {
+    "id": "sketch",
+    "name": "Sketching session",
+    "category": "indoor",
+    "duration_minutes": 40,
+    "estimated_cost": 0,
+    "energy": "relaxing",
+    "social": "either",
+    "description": "Draw an object or scene with paper and pens you already have.",
+    "icon": "✏️"
+  },
+  {
+    "id": "journal",
+    "name": "Journal and reset",
+    "category": "indoor",
+    "duration_minutes": 25,
+    "estimated_cost": 0,
+    "energy": "relaxing",
+    "social": "solo",
+    "description": "Reflect on your week and write one small intention.",
+    "icon": "📓"
+  },
+  {
+    "id": "recipe",
+    "name": "Cook a new recipe",
+    "category": "indoor",
+    "duration_minutes": 60,
+    "estimated_cost": 150,
+    "energy": "moderate",
+    "social": "either",
+    "description": "Try a simple recipe and enjoy making something from scratch.",
+    "icon": "🍳"
+  },
+  {
+    "id": "games",
+    "name": "Board game session",
+    "category": "indoor",
+    "duration_minutes": 60,
+    "estimated_cost": 100,
+    "energy": "moderate",
+    "social": "group",
+    "description": "Play a board or card game with friends or family.",
+    "icon": "🎲"
+  },
+  {
+    "id": "reading",
+    "name": "Read somewhere cozy",
+    "category": "indoor",
+    "duration_minutes": 30,
+    "estimated_cost": 0,
+    "energy": "relaxing",
+    "social": "solo",
+    "description": "Read a book, comic, or long-form article without distractions.",
+    "icon": "📚"
+  },
+  {
+    "id": "stretch",
+    "name": "Stretch and mobility",
+    "category": "indoor",
+    "duration_minutes": 20,
+    "estimated_cost": 0,
+    "energy": "relaxing",
+    "social": "either",
+    "description": "Follow a gentle stretching routine and take a mindful break.",
+    "icon": "🧘"
+  },
+  {
+    "id": "dance",
+    "name": "Dance break",
+    "category": "indoor",
+    "duration_minutes": 25,
+    "estimated_cost": 0,
+    "energy": "active",
+    "social": "either",
+    "description": "Play a few favorite songs and move for fun.",
+    "icon": "💃"
+  },
+  {
+    "id": "museum",
+    "name": "Museum or gallery visit",
+    "category": "outdoor",
+    "duration_minutes": 90,
+    "estimated_cost": 250,
+    "energy": "moderate",
+    "social": "either",
+    "description": "Explore a museum or gallery; check entry fees and hours first.",
+    "icon": "🖼️"
+  },
+  {
+    "id": "picnic",
+    "name": "Simple park picnic",
+    "category": "outdoor",
+    "duration_minutes": 75,
+    "estimated_cost": 180,
+    "energy": "relaxing",
+    "social": "group",
+    "description": "Pack a snack and enjoy a low-key outdoor break.",
+    "icon": "🧺"
+  },
+  {
+    "id": "puzzle",
+    "name": "Puzzle challenge",
+    "category": "indoor",
+    "duration_minutes": 35,
+    "estimated_cost": 0,
+    "energy": "relaxing",
+    "social": "either",
+    "description": "Solve a crossword, sudoku, puzzle, or brain teaser.",
+    "icon": "🧩"
+  },
+  {
+    "id": "learn",
+    "name": "Learn a tiny new skill",
+    "category": "indoor",
+    "duration_minutes": 45,
+    "estimated_cost": 0,
+    "energy": "moderate",
+    "social": "solo",
+    "description": "Practice one small skill from a free tutorial.",
+    "icon": "🧠"
+  },
+  {
+    "id": "market",
+    "name": "Explore a local market",
+    "category": "outdoor",
+    "duration_minutes": 60,
+    "estimated_cost": 100,
+    "energy": "moderate",
+    "social": "either",
+    "description": "Browse a local market and discover new sights or ingredients.",
+    "icon": "🛍️"
+  },
+  {
+    "id": "tea",
+    "name": "Tea or coffee catch-up",
+    "category": "outdoor",
+    "duration_minutes": 45,
+    "estimated_cost": 180,
+    "energy": "relaxing",
+    "social": "group",
+    "description": "Catch up with a friend at home or at a cafe within your budget.",
+    "icon": "☕"
+  },
+  {
+    "id": "plants",
+    "name": "Care for plants",
+    "category": "indoor",
+    "duration_minutes": 25,
+    "estimated_cost": 0,
+    "energy": "relaxing",
+    "social": "either",
+    "description": "Water plants, tidy leaves, or start a small herb pot if you have supplies.",
+    "icon": "🪴"
+  },
+  {
+    "id": "tidy",
+    "name": "Refresh one small space",
+    "category": "indoor",
+    "duration_minutes": 30,
+    "estimated_cost": 0,
+    "energy": "active",
+    "social": "solo",
+    "description": "Reset a desk, shelf, or room corner to make it feel better.",
+    "icon": "✨"
+  },
+  {
+    "id": "badminton",
+    "name": "Casual badminton",
+    "category": "outdoor",
+    "duration_minutes": 60,
+    "estimated_cost": 50,
+    "energy": "active",
+    "social": "group",
+    "description": "Play a casual game with a friend or family member.",
+    "icon": "🏸"
+  },
+  {
+    "id": "sunset",
+    "name": "Sunset pause",
+    "category": "outdoor",
+    "duration_minutes": 30,
+    "estimated_cost": 0,
+    "energy": "relaxing",
+    "social": "either",
+    "description": "Find a safe accessible spot and take a screen-free sunset break.",
+    "icon": "🌅"
+  }
+]
