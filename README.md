@@ -1,0 +1,1 @@
+# Weekend-Buddy-AI-Activity-Planner
